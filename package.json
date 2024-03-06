@@ -1,0 +1,53 @@
+{
+  "name": "nitroscam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrenigman/nitroscam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrenigman/nitroscam/issues"
+  },
+  "homepage": "https://github.com/mrenigman/nitroscam#readme",
+  "devDependencies": {
+    "async-cache": "^1.1.0",
+    "axios": "^0.21.1",
+    "axios-https-proxy-fix": "^0.17.1",
+    "axios-socks5-agent": "^1.0.1",
+    "binlookup": "^2.0.1",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.10",
+    "chunk": "0.0.3",
+    "cookie-parser": "^1.4.5",
+    "country-list": "^2.2.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "escape-html": "^1.0.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "express-useragent": "^1.0.15",
+    "faker": "^5.5.3",
+    "fs": "0.0.1-security",
+    "geoip-lite": "^1.4.2",
+    "https-proxy-agent": "^5.0.0",
+    "linkifyjs": "^3.0.0-beta.3",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "mysql2": "^2.2.5",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.1",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0",
+    "sequelize-pagination": "^1.1.0",
+    "socks-proxy-agent": "^6.0.0",
+    "telegraf": "git+https://github.com/mrenigman/telegraf.git"
+  },
+  "dependencies": {}
+}
